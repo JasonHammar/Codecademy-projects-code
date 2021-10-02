@@ -1,0 +1,23 @@
+.header{// header class selector
+  background-color: CornflowerBlue;
+  text-align: center;
+}
+
+.about-me{// about me class selector
+  font-size: 20px;
+  opacity: 0.5;
+}
+
+.title{// title class selector
+  font-weight: bold;
+}
+
+h1{// h1 element selector
+  color: azure;
+}
+
+body{// body selector
+  font-family: Georgia;
+  background-image: URL("https://content.codecademy.com/courses/learn-css-selectors-visual-rules/hypnotize_bg.png");
+}
+
