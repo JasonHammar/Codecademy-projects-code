@@ -1,0 +1,27 @@
+img{// Changes image size
+  height: 150px;
+}
+
+.description{// changes text size of elements with class description
+  font-size: 20px;
+}
+
+#cook-time{// Bolds text with a cook time id.
+  font-weight: bold;
+}
+
+.ingredients li{// changes bullet points to squares
+  list-style: square;
+}
+
+p.time{// changes color of text in p attribute with time class
+  color: gray;
+}
+
+.external-link{// text in external link class will have its color changed
+  color: SeaGreen;
+}
+
+h1, h2, p, li{// changes all text fonts to helvetica.
+  font-family: Helvetica;
+}
