@@ -1,5 +1,5 @@
 let target;
-
+// This is not my code, this is from codecademy to help make the project work.
 const humanGuessInput = document.getElementById('human-guess');
 
 const roundNumberDisplay = document.getElementById('round-number');
